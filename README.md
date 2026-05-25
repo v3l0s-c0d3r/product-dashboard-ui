@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E" alt="javascript" />
   </div>
 
-  <h3 align="center">MD Concepts — Product Dashboard</h3>
+  <h3 align="center">Sample Product Dashboard</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
